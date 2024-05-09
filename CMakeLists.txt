@@ -45,7 +45,7 @@ if(NOT OGL_ALLOW_REFERENCE_ONLY)
 endif()
 
 set(GINKGO_CHECKOUT_VERSION
-    "d35e4be083a8450ed2a907b70c2bbcc6414221b7"
+    "bd5ee3bc29a638ff9ce1b2f00ac3183980ef7f88"
     CACHE STRING "Use specific version of ginkgo")
 
 include(CheckIncludeFileCXX)
